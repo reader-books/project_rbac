@@ -966,8 +966,8 @@ final class Test {
     }
     public static function permissionTest(
         bool|null|User $user,
-        Permission $permission) : bool|array {
-        if (!$user) {
+        bool|null|Permission $permission) : bool|array {
+        if (!$user || !$permission) {
             
             echo "<b>===> User will be not insert to DB:\t\t";
             echo __LINE__ . "</b>\n";
@@ -1350,6 +1350,7 @@ $name = "";
 $email = "";
 $login = "";
 $password_jerry = "";
+$permission = "";
 
 $php_self = $_SERVER['PHP_SELF'];
 
@@ -1519,7 +1520,8 @@ $jerry = new User(
 $permission_object = match ($permission) {
     TypePermission::High -> value => $permissionHigh,
     TypePermission::Medium -> value => $permissionMedium,
-    TypePermission::Low -> value => $permissionLow
+    TypePermission::Low -> value => $permissionLow,
+    default => ""
 };
 echo "<pre>";
 // ============================================================
