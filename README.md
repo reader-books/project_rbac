@@ -20,7 +20,5 @@
 - check user has role
 - check role has permission
 - class auth contains the main logic
-- class workDB -> query to Data Base
-- class Query has all queries
-- 
-
+- class workDB sents query to Data Base
+- class query has all queries
