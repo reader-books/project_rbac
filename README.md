@@ -16,9 +16,9 @@
 - Using algorithms
 - Using frameworks
 - Abstract classes, interfaces (maybe)
-## Logic
+## 3. Logic
 - check user has role
 - check role has permission
 - class auth contains the main logic
-- class workDB sents query to Data Base
+- class workdb sents query to data base
 - class query has all queries
