@@ -1,12 +1,12 @@
 # project_rbac
-- this test project is created for studying bases of computer sciences, algorithms and design patterns
+- this test project is created for studying basics of computer sciences, algorithms and design patterns
 - it consists of the basics of the registration, authorization and authentication
 - there are three bases classes: user, role, permission + two relations classes: user-role, role-permission
 ## 1. Features in present
 - PHP: PDO extension
-- OOP (bases)
+- OOP (basics)
 - Prepared statements
-- SQL (bases)
+- SQL (basics)
 ## 2. Features in future (plan)
 - PHP: Hash, SPL, Data Structures, Sessions (maybe), OAuth (maybe)
 - Using PSR standards
