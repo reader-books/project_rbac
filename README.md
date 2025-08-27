@@ -49,10 +49,10 @@ And two relational classes:
 
 ## 5. Notes
 
-This project is intended for **learning purposes** and may evolve over time.
-Contributions, suggestions, and feedback are welcome
+This project is intended for **learning purposes** and may evolve over time.  
+Contributions, suggestions, and feedback are welcome.
 
 Have a nice day
 
-Best regards,
+Best regards,  
 Reader Books
