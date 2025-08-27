@@ -1,7 +1,7 @@
-# RBAC Project by PHP
+# RBAC Project in PHP
 
 - This **educational project** provides a basic implementation of Role-Based Access Control (RBAC) using PHP and Object-Oriented Programming (OOP) principles
-- It was created to explore fundamental concepts in computer science, algorithms, and design patterns
+- It was created to explore fundamental concepts of computer science, including algorithms and design patterns
 
 ## 1. Core Functionality
 
