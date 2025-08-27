@@ -1,9 +1,9 @@
 # RBAC Project by PHP
 
-- This **educational project** performs a basic implementation of Role-Based Access Control (RBAC) using PHP and Object-Oriented Programming (OOP) principles
-- It was created to explore foundational concepts in computer science, algorithms, and design patterns
+- This **educational project** provides a basic implementation of Role-Based Access Control (RBAC) using PHP and Object-Oriented Programming (OOP) principles
+- It was created to explore fundamental concepts in computer science, algorithms, and design patterns
 
-## 1. Core Functionally
+## 1. Core Functionality
 
 The system includes essential features for:
 
@@ -43,16 +43,16 @@ And two relational classes:
 
 - Verify if a user has a specific role
 - Verify if a role includes a specific permission
-- `Auth` class handles core authentication logic
-- `WorkDB` class manages database queries
-- `Query` class stores all SQL statements
+- The `Auth` class handles core authentication logic
+- The `WorkDB` class manages database queries
+- The `Query` class stores all SQL statements
 
 ## 5. Notes
 
 This project is intended for **learning purposes** and may evolve over time.  
 Contributions, suggestions, and feedback are welcome.
 
-Have a nice day
+Thanks
 
 Best regards,  
 Reader Books
