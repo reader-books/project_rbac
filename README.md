@@ -1,24 +1,24 @@
 # project_rbac
-- this test project is created for studying basics of computer sciences, algorithms and design patterns
-- it consists of the basics of the registration, authorization and authentication
-- there are three bases classes: user, role, permission + two relations classes: user-role, role-permission
-## 1. Features in present
+- This test project was created to study the basics of computer science, algorithms, and design patterns
+- It includes basic functionality for registration, authorization, and authentication
+- There are three base classes: User, Role, and Permission + two relational classes: User-Role, Role-Permission
+## 1. Current Project Features
 - PHP: PDO extension
 - OOP (basics)
 - Prepared statements
 - SQL (basics)
-## 2. Features in future (plan)
+## 2. Planned Project Features
 - PHP: Hash, SPL, Data Structures, Sessions (maybe), OAuth (maybe)
-- Using PSR standards
+- Implementing PSR standards
 - Using PHPUnit
-- Multi-factor authentication (maybe)
+- Adding multi-factor authentication (maybe)
 - Using design patterns
 - Using algorithms
 - Using frameworks
 - Abstract classes, interfaces (maybe)
 ## 3. Logic
-- check user has role
-- check role has permission
-- class auth contains the main logic
-- class workdb sents query to data base
-- class query has all queries
+- Check if user has a role
+- Check if role has a permission
+- Auth class contains the main logic
+- WorkDB class sends queries to the database
+- Query class contains all SQL queries
