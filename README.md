@@ -51,8 +51,3 @@ And two relational classes:
 
 This project is intended for **learning purposes** and may evolve over time.  
 Contributions, suggestions, and feedback are welcome.
-
-Thanks
-
-Best regards,  
-Reader Books
